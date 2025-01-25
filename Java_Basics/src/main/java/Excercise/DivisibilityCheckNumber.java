@@ -6,7 +6,7 @@ public class DivisibilityCheckNumber {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Get user-defined range
+    
         System.out.print("Enter the start of the range: ");
         int start = scanner.nextInt();
         System.out.print("Enter the end of the range: ");
