@@ -18,6 +18,5 @@ public class DivisibilityCheckNumber {
                 System.out.print(i + " ");
             }
         }
-        scanner.close();
     }
 }
